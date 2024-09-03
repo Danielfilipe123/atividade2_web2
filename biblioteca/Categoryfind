@@ -1,0 +1,65 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#5994
+    [34mall[39m: [
+      [34;4mApp\Models\Category[39;24m {#5995
+        [34mid[39m: [35m1[39m,
+        [34mname[39m: "[32mFicção[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#5996
+        [34mid[39m: [35m2[39m,
+        [34mname[39m: "[32mNão-ficção[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#5997
+        [34mid[39m: [35m3[39m,
+        [34mname[39m: "[32mFantasia[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#5998
+        [34mid[39m: [35m4[39m,
+        [34mname[39m: "[32mCiência[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#5999
+        [34mid[39m: [35m5[39m,
+        [34mname[39m: "[32mBiografia[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6000
+        [34mid[39m: [35m6[39m,
+        [34mname[39m: "[32mHistória[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6001
+        [34mid[39m: [35m7[39m,
+        [34mname[39m: "[32mTecnologia[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6002
+        [34mid[39m: [35m8[39m,
+        [34mname[39m: "[32mArte[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6003
+        [34mid[39m: [35m9[39m,
+        [34mname[39m: "[32mCulinária[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+      [34;4mApp\Models\Category[39;24m {#6004
+        [34mid[39m: [35m10[39m,
+        [34mname[39m: "[32mViagem[39m",
+        [34mcreated_at[39m: "[32m2024-09-02 18:23:40[39m",
+        [34mupdated_at[39m: "[32m2024-09-02 18:23:40[39m",
+      },
+    ],
+  }
+
